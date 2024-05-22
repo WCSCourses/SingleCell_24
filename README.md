@@ -14,6 +14,29 @@ Following our successful first edition, this course will mark a revised second v
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/)
 
+## Scientific Organising Committee
+- [Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
+- [David Adams](https://www.sanger.ac.uk/person/adams-david/), Wellcome Sanger Institute, UK
+- [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
+
+## Instructors & Assistants
+- [Vinicíus Maracajá-Coutinho](https://integrativebioinformatics.me/), University of Chile, Chile
+- [Patricia Severino](https://www.researchgate.net/profile/Patricia-Severino), Albert Einstein Research and Education Institute, Brazil
+- [Lia Chappell](https://www.sanger.ac.uk/person/chappell-lia/), Wellcome Sanger Institute, UK
+- [Benilton de Sá Carvalho](http://www.ime.unicamp.br/~dirimecc/IMECCdata/membro-0897291971174045.html), Unicamp, Brazil
+- [Yesid Cuesta Astroz](https://scholar.google.es/citations?user=q0hiAjEAAAAJ&hl=es), University of Antioquía, Colombia
+- [Anita Scoones](https://www.earlham.ac.uk/profile/anita-scoones), Earlham Institute, United Kingdom
+- [Danielle Carvalho](https://br.linkedin.com/in/danielle-carvalho-2aa894197?trk=public_profile_browsemap_profile-result-card_result-card_full-click), National Institute of Cancer (INCA), Brazil
+- [Flavia Aguiar](https://br.linkedin.com/in/flavia-aguiar-7412b8211), National Institute of Cancer (INCA), Brazil
+- Domenica Marchese, University of Chile, Chile
+- Laura Leaden, Albert Einstein Research and Education Institute, Brazil
+- [Leandro Santos](https://sites.google.com/view/bioinformaticainca-en/about-us), National Institute of Cancer (INCA), Brazil
+- [Gabriela Rapozo](https://www.researchgate.net/profile/Gabriela-Rapozo), National Institute of Cancer (INCA), Brazil
+- Adolfo Rojas, University of Chile, Chile
+- Jacqueline Boccacino, Wellcome Sanger Institute, UK
+- Annie Squiavinato, National Institute of Cancer (INCA), Brazil
+- Nayara Tessarollo, National Institute of Cancer (INCA), Brazil
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
