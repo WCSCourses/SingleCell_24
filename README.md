@@ -12,6 +12,8 @@ Aiming to expand the region’s capacity, our short course will offer hands-on l
 
 Following our successful first edition, this course will mark a revised second version, reflecting the high demand and positive feedback received previously. Building on the foundation laid by the inaugural course, we aim to delve deeper into the realm of single-cell technologies. This time, we are dedicated to exploring a broader spectrum of cutting-edge methodologies. These advancements promise to further enhance the capacity of researchers in Latin America, equipping them with the knowledge and skills needed to leverage the full potential of single-cell technologies in their scientific endeavours.
 
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
